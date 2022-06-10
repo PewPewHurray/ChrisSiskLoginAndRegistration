@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: blue;
+}
+
+.alignCenter {
+	text-align: center;
+}
+
+.form {
+	width: 450px;
+}
+
+.fullWidth {
+	width: 100%;
+}
